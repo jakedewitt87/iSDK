@@ -1,14 +1,14 @@
 {
-    "name": "infusionsoft/php-isdk",
-    "description": "The Official Infusionsoft API PHP SDK",
+    "name": "infusionsoft/old-php-isdk",
+    "description": "The unofficial Infusionsoft API PHP SDK",
     "keywords": ["api", "infusionsoft", "marketing", "infusionsoft-api", "infusion", "php-infusionsoft-api"],
     "version": "1.9.0",
     "license": "MIT",
-    "homepage": "https://developer.infusionsoft.com",
+    "homepage": "",
     "authors": [
         {
-            "name": "Infusionsoft",
-            "homepage": "https://developer.infusionsoft.com"
+            "name": "Infusionsoft-old-iSDK",
+            "homepage": ""
         }
     ],
     "require": {
