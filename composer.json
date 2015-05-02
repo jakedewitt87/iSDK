@@ -17,5 +17,6 @@
     },
     "autoload": {
         "classmap": ["src/isdk.php"]
-    }
+    },
+  "minimum-stability": "dev"
 }
